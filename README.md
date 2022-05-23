@@ -1,5 +1,5 @@
 # code-samples
-Samples of code written by me
+Samples of code that I have written for previous projects/coursework
 
 SoberSabesVibration_.m shows the Matlab analysis code for the second experiment of my masters project.
 This was an experiment using a robotic manipulandum (vBOT). Some of the code refers to vBOT functions, which I cannot share.
